@@ -1,6 +1,6 @@
 # City Codes of Joplin, MO
 
-![Repo Size](https://img.shields.io/github/repo-size/afterphil/Joplin-City-Code?color=blue&branch=main)
+![Repo Size](https://img.shields.io/github/repo-size/afterphil/Joplin-City-Code?color=blue&branch=main?cacheSeconds=10)
 
 This repository contains the city codes of Joplin, Missouri. It is a personal, passion-driven project and is provided **without guarantee** regarding accuracy or currency.
 
