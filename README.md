@@ -16,7 +16,7 @@ This repository contains the city codes of Joplin, Missouri. It is a personal, p
 ## Repository Structure
 
 - **Root Folder:**  
-  Contains the official release of [Joplin city codes in PDF](./Joplin%2C%20MO%20Code%20of%20Ordinances.pdf) format, sourced from [Municode](https://www.municode.com/). You can view it here: [Official City Codes PDF](./Joplin-City-Codes.pdf)
+  Contains the official release of Joplin city codes in PDF format, sourced from [Municode](https://www.municode.com/). You can view it here: [Official City Codes PDF](./Joplin%2C%20MO%20Code%20of%20Ordinances.pdf)
 
 - **Child Directories (Omitted City Ordinances by Year):**  
   Ordinances omitted from the official release are stored in the folder `Omitted City Ordinances` and organized by year. Here are the links:  
