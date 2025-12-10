@@ -2,7 +2,7 @@
 
 
 
-!\[Repo Size](https://img.shields.io/github/repo-size/afterphil/joplin-city-code?color=blue)
+!\[Repo Size](https://img.shields.io/github/repo-size/afterphil/Joplin-City-Code?color=blue)
 
 
 
