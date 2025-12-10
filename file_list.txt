@@ -1,0 +1,372 @@
+﻿Joplin City Code (1)
+    file_list.txt
+    Joplin, MO Code of Ordinances.pdf
+    README.md
+
+	Omitted City Ordinances (25)
+		1996 (9)
+			Ordinance No. 96-027.pdf
+			Ordinance No. 96-047.pdf
+			Ordinance No. 96-071.pdf
+			Ordinance No. 96-072.pdf
+			Ordinance No. 96-122.pdf
+			Ordinance No. 96-129.pdf
+			Ordinance No. 96-192.pdf
+			Ordinance No. 96-196.pdf
+			Ordinance No. 96-198.pdf
+
+		1997 (20)
+			Ordinance No. 97-022.pdf
+			Ordinance No. 97-038.pdf
+			Ordinance No. 97-052.pdf
+			Ordinance No. 97-053.pdf
+			Ordinance No. 97-080.pdf
+			Ordinance No. 97-081.pdf
+			Ordinance No. 97-082.pdf
+			Ordinance No. 97-083.pdf
+			Ordinance No. 97-091.pdf
+			Ordinance No. 97-092.pdf
+			Ordinance No. 97-128.pdf
+			Ordinance No. 97-130.pdf
+			Ordinance No. 97-131.pdf
+			Ordinance No. 97-132.pdf
+			Ordinance No. 97-136.pdf
+			Ordinance No. 97-144.pdf
+			Ordinance No. 97-165.pdf
+			Ordinance No. 97-175.pdf
+			Ordinance No. 97-197.pdf
+			Ordinance No. 97-214.pdf
+
+		1998 (11)
+			Council Bill No. 98-061.pdf
+			Ordinance No. 98-036.pdf
+			Ordinance No. 98-044.pdf
+			Ordinance No. 98-045.pdf
+			Ordinance No. 98-050.pdf
+			Ordinance No. 98-064.pdf
+			Ordinance No. 98-076.pdf
+			Ordinance No. 98-106.pdf
+			Ordinance No. 98-112.pdf
+			Ordinance No. 98-151.pdf
+			Ordinance No. 98-161.pdf
+
+		1999 (14)
+			Ordinance No. 99-008.pdf
+			Ordinance No. 99-024.pdf
+			Ordinance No. 99-033.pdf
+			Ordinance No. 99-044.pdf
+			Ordinance No. 99-045.pdf
+			Ordinance No. 99-061.pdf
+			Ordinance No. 99-065.pdf
+			Ordinance No. 99-106.pdf
+			Ordinance No. 99-127.pdf
+			Ordinance No. 99-145.pdf
+			Ordinance No. 99-158.pdf
+			Ordinance No. 99-193.pdf
+			Ordinance No. 99-205.pdf
+			Ordinance No. 99-218.pdf
+
+		2000 (12)
+			Ordinance No. 2000-001.pdf
+			Ordinance No. 2000-036.pdf
+			Ordinance No. 2000-083.pdf
+			Ordinance No. 2000-084.pdf
+			Ordinance No. 2000-116.pdf
+			Ordinance No. 2000-117.pdf
+			Ordinance No. 2000-121.pdf
+			Ordinance No. 2000-125.pdf
+			Ordinance No. 2000-148.pdf
+			Ordinance No. 2000-149.pdf
+			Ordinance No. 2000-157.pdf
+			Ordinance No. 2000-214.pdf
+
+		2001 (10)
+			Ordinance No. 2001-007.pdf
+			Ordinance No. 2001-023.pdf
+			Ordinance No. 2001-024.pdf
+			Ordinance No. 2001-062.pdf
+			Ordinance No. 2001-114.pdf
+			Ordinance No. 2001-115.pdf
+			Ordinance No. 2001-116.pdf
+			Ordinance No. 2001-132.pdf
+			Ordinance No. 2001-134.pdf
+			Ordinance No. 2001-177.pdf
+
+		2002 (4)
+			Ordinance No. 2002-075.pdf
+			Ordinance No. 2002-079.pdf
+			Ordinance No. 2002-086.pdf
+			Ordinance No. 2002-158.pdf
+
+		2003 (25)
+			Ordinance No. 2003-006.pdf
+			Ordinance No. 2003-007.pdf
+			Ordinance No. 2003-023.pdf
+			Ordinance No. 2003-034.pdf
+			Ordinance No. 2003-046.pdf
+			Ordinance No. 2003-047.pdf
+			Ordinance No. 2003-048.pdf
+			Ordinance No. 2003-050.pdf
+			Ordinance No. 2003-051.pdf
+			Ordinance No. 2003-052.pdf
+			Ordinance No. 2003-053.pdf
+			Ordinance No. 2003-057.pdf
+			Ordinance No. 2003-065.pdf
+			Ordinance No. 2003-076.pdf
+			Ordinance No. 2003-077.pdf
+			Ordinance No. 2003-079.pdf
+			Ordinance No. 2003-106.pdf
+			Ordinance No. 2003-150.pdf
+			Ordinance No. 2003-160.pdf
+			Ordinance No. 2003-161.pdf
+			Ordinance No. 2003-170.pdf
+			Ordinance No. 2003-172.pdf
+			Ordinance No. 2003-174.pdf
+			Ordinance No. 2003-185.pdf
+			Ordinance No. 2003-213.pdf
+
+		2004 (11)
+			Ordinance No. 2004-022.pdf
+			Ordinance No. 2004-045.pdf
+			Ordinance No. 2004-048.pdf
+			Ordinance No. 2004-053.pdf
+			Ordinance No. 2004-144.pdf
+			Ordinance No. 2004-145.pdf
+			Ordinance No. 2004-169.pdf
+			Ordinance No. 2004-175.pdf
+			Ordinance No. 2004-188.pdf
+			Ordinance No. 2004-247.pdf
+			Ordinance No. 2004-267.pdf
+
+		2005 (8)
+			Ordinance No. 2005-021.pdf
+			Ordinance No. 2005-042.pdf
+			Ordinance No. 2005-065.pdf
+			Ordinance No. 2005-097.pdf
+			Ordinance No. 2005-120.pdf
+			Ordinance No. 2005-193.pdf
+			Ordinance No. 2005-202.pdf
+			Ordinance No. 2005-203.pdf
+
+		2006 (13)
+			Ordinance No. 2006-014.pdf
+			Ordinance No. 2006-015.pdf
+			Ordinance No. 2006-032.pdf
+			Ordinance No. 2006-042.pdf
+			Ordinance No. 2006-053.pdf
+			Ordinance No. 2006-103.pdf
+			Ordinance No. 2006-104.pdf
+			Ordinance No. 2006-123.pdf
+			Ordinance No. 2006-130.pdf
+			Ordinance No. 2006-143.pdf
+			Ordinance No. 2006-160.pdf
+			Ordinance No. 2006-220.pdf
+			Ordinance No. 2006-229.pdf
+
+		2007 (20)
+			Ordinance No. 2007-045.pdf
+			Ordinance No. 2007-085.pdf
+			Ordinance No. 2007-086.pdf
+			Ordinance No. 2007-087.pdf
+			Ordinance No. 2007-099.pdf
+			Ordinance No. 2007-153.pdf
+			Ordinance No. 2007-174.pdf
+			Ordinance No. 2007-181.pdf
+			Ordinance No. 2007-212.pdf
+			Ordinance No. 2007-213.pdf
+			Ordinance No. 2007-214.pdf
+			Ordinance No. 2007-215.pdf
+			Ordinance No. 2007-216.pdf
+			Ordinance No. 2007-217.pdf
+			Ordinance No. 2007-218.pdf
+			Ordinance No. 2007-219.pdf
+			Ordinance No. 2007-220.pdf
+			Ordinance No. 2007-222.pdf
+			Ordinance No. 2007-247.pdf
+			Ordinance No. 2007-267.pdf
+
+		2008 (30)
+			Ordinance No. 2008-001.pdf
+			Ordinance No. 2008-008.pdf
+			Ordinance No. 2008-016.pdf
+			Ordinance No. 2008-019.pdf
+			Ordinance No. 2008-020.pdf
+			Ordinance No. 2008-021.pdf
+			Ordinance No. 2008-022.pdf
+			Ordinance No. 2008-023.pdf
+			Ordinance No. 2008-030.pdf
+			Ordinance No. 2008-060.pdf
+			Ordinance No. 2008-061.pdf
+			Ordinance No. 2008-067.pdf
+			Ordinance No. 2008-068.pdf
+			Ordinance No. 2008-069.pdf
+			Ordinance No. 2008-070.pdf
+			Ordinance No. 2008-071.pdf
+			Ordinance No. 2008-072.pdf
+			Ordinance No. 2008-073.pdf
+			Ordinance No. 2008-074.pdf
+			Ordinance No. 2008-075.pdf
+			Ordinance No. 2008-076.pdf
+			Ordinance No. 2008-077.pdf
+			Ordinance No. 2008-078.pdf
+			Ordinance No. 2008-091.pdf
+			Ordinance No. 2008-092.pdf
+			Ordinance No. 2008-094.pdf
+			Ordinance No. 2008-104.pdf
+			Ordinance No. 2008-114.pdf
+			Ordinance No. 2008-180.pdf
+			Ordinance No. 2008-212.pdf
+
+		2009 (17)
+			Council Bill No. 2009-025.pdf
+			Ordinance No. 2009-017.pdf
+			Ordinance No. 2009-089.pdf
+			Ordinance No. 2009-103.pdf
+			Ordinance No. 2009-119.pdf
+			Ordinance No. 2009-161.pdf
+			Ordinance No. 2009-164.pdf
+			Ordinance No. 2009-165.pdf
+			Ordinance No. 2009-166.pdf
+			Ordinance No. 2009-167.pdf
+			Ordinance No. 2009-168.pdf
+			Ordinance No. 2009-176.pdf
+			Ordinance No. 2009-193.pdf
+			Ordinance No. 2009-197.pdf
+			Ordinance No. 2009-198.pdf
+			Ordinance No. 2009-199.pdf
+			Ordinance No. 2009-200.pdf
+
+		2011 (6)
+			Council Bill No. 2011-604.pdf
+			Ordinance No. 2011-075.pdf
+			Ordinance No. 2011-077.pdf
+			Ordinance No. 2011-094.pdf
+			Ordinance No. 2011-095.pdf
+			Ordinance No. 2011-155.pdf
+
+		2012 (8)
+			Ordinance No. 2012-048.pdf
+			Ordinance No. 2012-049.pdf
+			Ordinance No. 2012-126.pdf
+			Ordinance No. 2012-135.pdf
+			Ordinance No. 2012-136.pdf
+			Ordinance No. 2012-195.pdf
+			Ordinance No. 2012-200.pdf
+			Ordinance No. 2012-212.pdf
+
+		2013 (9)
+			Ordinance No. 2013-074.pdf
+			Ordinance No. 2013-105.pdf
+			Ordinance No. 2013-106.pdf
+			Ordinance No. 2013-126.pdf
+			Ordinance No. 2013-185.pdf
+			Ordinance No. 2013-186.pdf
+			Ordinance No. 2013-196.pdf
+			Ordinance No. 2013-246.pdf
+			Ordinance No. 2013-260.pdf
+
+		2014 (11)
+			Ordinance No. 2014-021.pdf
+			Ordinance No. 2014-026.pdf
+			Ordinance No. 2014-070.pdf
+			Ordinance No. 2014-137.pdf
+			Ordinance No. 2014-162.pdf
+			Ordinance No. 2014-166.pdf
+			Ordinance No. 2014-172.pdf
+			Ordinance No. 2014-183.pdf
+			Ordinance No. 2014-199.pdf
+			Ordinance No. 2014-200.pdf
+			Ordinance No. 2014-211.pdf
+
+		2015 (20)
+			Ordinance No. 2015-031.pdf
+			Ordinance No. 2015-032.pdf
+			Ordinance No. 2015-036.pdf
+			Ordinance No. 2015-067.pdf
+			Ordinance No. 2015-113.pdf
+			Ordinance No. 2015-126.pdf
+			Ordinance No. 2015-164.pdf
+			Ordinance No. 2015-165.pdf
+			Ordinance No. 2015-183.pdf
+			Ordinance No. 2015-184.pdf
+			Ordinance No. 2015-185.pdf
+			Ordinance No. 2015-186.pdf
+			Ordinance No. 2015-187.pdf
+			Ordinance No. 2015-188.pdf
+			Ordinance No. 2015-189.pdf
+			Ordinance No. 2015-190.pdf
+			Ordinance No. 2015-191.pdf
+			Ordinance No. 2015-201.pdf
+			Ordinance No. 2015-212.pdf
+			Ordinance No. 2015-213.pdf
+
+		2016 (17)
+			Ordinance No. 2016-002.pdf
+			Ordinance No. 2016-032.pdf
+			Ordinance No. 2016-055.pdf
+			Ordinance No. 2016-056.pdf
+			Ordinance No. 2016-057.pdf
+			Ordinance No. 2016-065.pdf
+			Ordinance No. 2016-073.pdf
+			Ordinance No. 2016-074.pdf
+			Ordinance No. 2016-085.pdf
+			Ordinance No. 2016-086.pdf
+			Ordinance No. 2016-103.pdf
+			Ordinance No. 2016-113.pdf
+			Ordinance No. 2016-118.pdf
+			Ordinance No. 2016-126.pdf
+			Ordinance No. 2016-174.pdf
+			Ordinance No. 2016-179.pdf
+			Ordinance No. 2016-192.pdf
+
+		2017 (16)
+			Ordinance No. 2017-001.pdf
+			Ordinance No. 2017-055.pdf
+			Ordinance No. 2017-114.pdf
+			Ordinance No. 2017-135.pdf
+			Ordinance No. 2017-162.pdf
+			Ordinance No. 2017-169.pdf
+			Ordinance No. 2017-191.pdf
+			Ordinance No. 2017-192.pdf
+			Ordinance No. 2017-193.pdf
+			Ordinance No. 2017-194.pdf
+			Ordinance No. 2017-195.pdf
+			Ordinance No. 2017-196.pdf
+			Ordinance No. 2017-197.pdf
+			Ordinance No. 2017-198.pdf
+			Ordinance No. 2017-199.pdf
+			Ordinance No. 2017-200.pdf
+
+		2018 (7)
+			Ordinance No. 2018-002.pdf
+			Ordinance No. 2018-011.pdf
+			Ordinance No. 2018-051.pdf
+			Ordinance No. 2018-066.pdf
+			Ordinance No. 2018-113.pdf
+			Ordinance No. 2018-138.pdf
+			Ordinance No. 2018-147.pdf
+
+		2019 (18)
+			Ordinance No. 2019-011.pdf
+			Ordinance No. 2019-018.pdf
+			Ordinance No. 2019-024.pdf
+			Ordinance No. 2019-032.pdf
+			Ordinance No. 2019-033.pdf
+			Ordinance No. 2019-047.pdf
+			Ordinance No. 2019-048.pdf
+			Ordinance No. 2019-053.pdf
+			Ordinance No. 2019-073.pdf
+			Ordinance No. 2019-074.pdf
+			Ordinance No. 2019-078.pdf
+			Ordinance No. 2019-104.pdf
+			Ordinance No. 2019-152.pdf
+			Ordinance No. 2019-185.pdf
+			Ordinance No. 2019-186.pdf
+			Ordinance No. 2019-196.pdf
+			Ordinance No. 2019-197.pdf
+			Ordinance No. 2019-202.pdf
+
+		2023 (2)
+			Ordinance No. 2023-195.pdf
+			Ordinance No. 2023-196.pdf
+
